@@ -1,0 +1,4 @@
+﻿StoreID,StoreName,MarketType,StoreFormat,Population5mi,MedianHouseholdIncome,Competitors5mi,StoreSqFt
+LOW,Lake Oswego,Suburban,Standard,98000,135000,6,17000
+TIG,Tigard,Suburban,Standard,142000,99000,8,16500
+BEA,Beaverton,Suburban,Compact,165000,92000,9,13000

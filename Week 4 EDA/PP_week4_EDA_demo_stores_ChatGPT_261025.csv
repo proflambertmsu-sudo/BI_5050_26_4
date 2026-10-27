@@ -1,0 +1,31 @@
+﻿StoreID,StoreName,MarketType,StoreFormat,Population5mi,MedianHouseholdIncome,Competitors5mi,StoreSqFt,AnnualTransactions,AvgTransactionValue,AnnualSales
+PPD001,Comparable Store 01,Urban,Standard,61000,86300,2,15300,9350,74.8,699380.0
+PPD002,Comparable Store 02,Suburban,Standard,65000,114400,8,18300,11110,83.44,927018.4
+PPD003,Comparable Store 03,Small City,Compact,80500,107600,11,14400,7500,78.84,591300.0
+PPD004,Comparable Store 04,Urban,Compact,57200,109100,2,10300,7620,80.87,616229.4
+PPD005,Comparable Store 05,Suburban,Compact,58400,94400,4,13400,7500,73.46,550950.0
+PPD006,Comparable Store 06,Small City,Standard,109100,110400,4,17100,14760,85.91,1268031.6
+PPD007,Comparable Store 07,Urban,Standard,88600,92600,2,16900,13650,77.09,1052278.5
+PPD008,Comparable Store 08,Suburban,Standard,121800,92100,2,19200,11830,79.23,937290.9
+PPD009,Comparable Store 09,Small City,Compact,96500,94800,4,11700,10460,81.35,850921.0
+PPD010,Comparable Store 10,Urban,Compact,84400,71300,7,11300,8860,77.39,685675.4
+PPD011,Comparable Store 11,Suburban,Compact,144200,75600,6,9800,13530,77.29,1045733.7
+PPD012,Comparable Store 12,Small City,Standard,168800,82500,5,19100,17640,83.26,1468706.4
+PPD013,Comparable Store 13,Urban,Standard,101300,69200,2,20600,11820,67.15,793713.0
+PPD014,Comparable Store 14,Suburban,Standard,143700,73200,3,16700,14260,72.97,1040552.2
+PPD015,Comparable Store 15,Small City,Compact,139800,78600,2,10000,14790,80.38,1188820.2
+PPD016,Comparable Store 16,Urban,Compact,140000,87800,7,14400,14120,82.41,1163629.2
+PPD017,Comparable Store 17,Suburban,Compact,72300,96100,9,9800,9590,86.06,825315.4
+PPD018,Comparable Store 18,Small City,Standard,155100,88900,10,20300,13850,83.15,1151627.5
+PPD019,Comparable Store 19,Urban,Standard,143400,101100,10,17000,14410,76.04,1095736.4
+PPD020,Comparable Store 20,Suburban,Standard,67200,119700,4,19300,9730,80.26,780929.8
+PPD021,Comparable Store 21,Small City,Compact,171800,65800,5,13000,17370,70.46,1223890.2
+PPD022,Comparable Store 22,Urban,Compact,79000,111500,3,12000,8960,83.26,746009.6
+PPD023,Comparable Store 23,Suburban,Compact,150400,93900,3,14100,18340,74.6,1368164.0
+PPD024,Comparable Store 24,Small City,Standard,155100,96700,3,18400,16900,85.29,1441401.0
+PPD025,Comparable Store 25,Urban,Standard,154700,83200,8,19700,16290,75.0,1221750.0
+PPD026,Comparable Store 26,Suburban,Standard,135700,113000,10,16600,13850,77.54,1073929.0
+PPD027,Comparable Store 27,Small City,Compact,94600,97200,7,11200,9890,79.58,787046.2
+PPD028,Comparable Store 28,Urban,Compact,143300,77700,8,10500,14410,78.58,1132337.8
+PPD029,Comparable Store 29,Suburban,Compact,89100,119700,8,13700,11340,75.09,851520.6
+PPD030,Comparable Store 30,Small City,Standard,85400,101000,11,19900,12640,80.04,1011705.6

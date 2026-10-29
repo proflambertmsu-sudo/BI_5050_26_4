@@ -1,0 +1,4 @@
+﻿StoreID,StoreName,MarketType,StoreFormat,Population5mi,MedianHouseholdIncome,Competitors5mi,StoreSqFt
+GLD,Golden,Suburban,Standard,105000,112000,7,16500
+WST,Westminster,Suburban,Standard,155000,98000,9,17500
+PKR,Parker,Suburban,Compact,132000,125000,6,14500
